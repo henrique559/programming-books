@@ -18,7 +18,6 @@ TODO:
 - Structure and Interpretation of Computer Programs
 - Concepts, Techniques, and Models of Computer Programming
 
-
 ### Engenharia de Software
 - The Mythical Man-Month 
 - Clean Code
@@ -47,6 +46,13 @@ TODO:
 ### Compiladores e Interpretadores
 - Crafting interpreters
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
+
+### Engenharia Reversa
+- The Art of 64 Bit Assembly
+- Practical Malware Analysis
+- Blue Fox: Arm Assembly Internals and Reverse Engineering
+- The Ghidra Book: The Definitive Guide
+- Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
 
 # Software Geral
 
