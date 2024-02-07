@@ -1,23 +1,63 @@
-# Resumo de livros de programação
+# Livros de Programação
 TODO:
 
 [Livros](https://github.com/cs-books/influential-cs-books)
 
-### Tecnicos
-| Livro | Autor | Status |
-|-------------|-------------|-------------|
-| Linguagem C | Luis Damas | [Finalizado](https://github.com/henrique559/linguagemc-luis-damas) |
-| Python: Crash Course | Eric Matthes | - |
-| C#: A Players Guide | RB Whitaker | [Estudando](https://github.com/henrique559/Csharp-PlayersGuide) |
-| Analise de tráfego TCP/IP | Eriberto Mota Filho | - |
-| Entendendo Algoritmos | Aditya Y. Bhargava | - |
-| 
+📙 - Finalizado
+📖 - Estudando
+
+# Tecnicos
+
+### Linguagens
+- Linguagem C -  [Finalizado](https://github.com/henrique559/linguagemc-luis-damas) 📙
+- C#: A Players Guide -  [Estudando](https://github.com/henrique559/Csharp-PlayersGuide) 📖 
+- Python: Crash Course  
+
+### Computação
+- Simply Scheme
+- Structure and Interpretation of Computer Programs
+- Concepts, Techniques, and Models of Computer Programming
 
 
-### Software Geral
-| Livro | Autor | Status |
-|-------------|-------------|-------------|
-| Aprendendo a Aprender | Barbara Oakley | Finalizado |
+### Engenharia de Software
+- The Mythical Man-Month 
+- Clean Code
+- Refactoring
+- Domain Driven Design
+- Peopleware: Productive Projects and Teams
+ 	Software Engineering: A Practitioner's Approach
+
+### Programação de baixo nível
+- The C Programming Language
+- Code: The Hidden Language of Computer Hardware and Software
+- Low Level Programming
+- Computer Systems: A Programmer's Perspective
+
+### Algoritmos
+- Entendendo Algoritmos  
+- Introduction to Algorithms (The MIT Press) (Algoritmos Teoria e Prática) 
+- Algoritmos e Estruturas de Dados Niklaus Wirth
+- A Arte de Resolver Problemas
+
+### Sistemas Operacionais e Redes de Computadores
+- Operating Systems: Three Easy Pieces
+- Computer Networking: a Top-Down Approach
+- Analises de Redes TCP/IP
+
+### Compiladores e Interpretadores
+- Crafting interpreters
+- Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
+
+# Software Geral
+
+- The Pragmatic Programmer
+- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application 
+- Rework 
+- Startup, Jessica Livingston 
+- The twelve-factor methodology to scale a software 
+- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Estudando](https://github.com/henrique559/O-Programador-apaixonado)  📖 
 
 
 ### ETC
+
+- Aprendendo a Aprender - Finalizado 📙
