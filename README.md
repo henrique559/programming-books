@@ -12,7 +12,8 @@ TODO:
 ### Linguagens
 - Linguagem C -  [Finalizado](https://github.com/henrique559/linguagemc-luis-damas) 📙
 - C#: A Players Guide -  [Estudando](https://github.com/henrique559/Csharp-PlayersGuide) 📖 
-- Python: Crash Course  
+- Python: Crash Course
+- How to think like a programmer
 
 ### Computação
 - Simply Scheme
