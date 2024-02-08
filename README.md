@@ -4,6 +4,7 @@ TODO:
 [Livros](https://github.com/cs-books/influential-cs-books)
 
 📙 - Finalizado
+
 📖 - Estudando
 
 # Tecnicos
@@ -30,6 +31,7 @@ TODO:
 - The C Programming Language
 - Code: The Hidden Language of Computer Hardware and Software
 - Low Level Programming
+- Hacking: The Art of Exploitation, 2nd Edition
 - Computer Systems: A Programmer's Perspective
 
 ### Algoritmos
