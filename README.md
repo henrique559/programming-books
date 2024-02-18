@@ -11,6 +11,7 @@ TODO:
 
 ### Linguagens
 - Linguagem C -  [Finalizado](https://github.com/henrique559/linguagemc-luis-damas) 📙
+- Introdução a Linguagem SQL
 - C#: A Players Guide -  [Estudando](https://github.com/henrique559/Csharp-PlayersGuide) 📖 
 - Python: Crash Course
 - How to think like a programmer
