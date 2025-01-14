@@ -1,7 +1,4 @@
-# Livros de Programação
-TODO:
-
-[Livros](https://github.com/cs-books/influential-cs-books)
+# Livros e Cursos de Programação 
 
 📙 - Finalizado
 
@@ -9,66 +6,46 @@ TODO:
 
 # Tecnicos
 
-### Linguagens
-- Linguagem C -  [Finalizado](https://github.com/henrique559/linguagemc-luis-damas) 📙
-- Introdução a Linguagem SQL
-- C#: A Players Guide -  [Estudando](https://github.com/henrique559/Csharp-PlayersGuide) 📖 
-- Python: Crash Course
-- How to think like a programmer
-
 ### Computação
-- Simply Scheme
-- Structure and Interpretation of Computer Programs
+- Structure and Interpretation of Computer Programs - Estudando
 - Concepts, Techniques, and Models of Computer Programming
+- Essentials of Programming Languages
+- Introduction to Automata Theory, Languages and Computation
+
+### Matematica
+- Discrete Mathematics
+- Pre-Calculo
+- Calculo 1, 2
+- Algebra Linear
 
 ### Engenharia de Software
-- The Mythical Man-Month 
 - Clean Code
-- Refactoring
+- Clean Architecture
+- Design Patterns
 - Domain Driven Design
-- Peopleware: Productive Projects and Teams
- 	Software Engineering: A Practitioner's Approach
+- Refactoring
 
 ### Programação de baixo nível
-- The C Programming Language
-- Code: The Hidden Language of Computer Hardware and Software
+- Nand2Tetris
 - Low Level Programming
 - Hacking: The Art of Exploitation, 2nd Edition
 - Computer Systems: A Programmer's Perspective
+- The Linux Programming Interface
+- Practical Malware Analysis
+- Parallel Computing
 
 ### Algoritmos
-- Entendendo Algoritmos  
-- Introduction to Algorithms (The MIT Press) (Algoritmos Teoria e Prática) 
-- Algoritmos e Estruturas de Dados Niklaus Wirth
+- Introduction to Algorithms (Cormen)
 - A Arte de Resolver Problemas
+- How to Solve it
 
 ### Sistemas Operacionais e Redes de Computadores
 - Operating Systems: Three Easy Pieces
 - Computer Networking: a Top-Down Approach
-- Analises de Redes TCP/IP
+- TCP/IP Illustrated vols. 1, 2
 
 ### Compiladores e Interpretadores
 - Crafting interpreters
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 
-### Engenharia Reversa
-- The Art of 64 Bit Assembly
-- Practical Malware Analysis
-- Blue Fox: Arm Assembly Internals and Reverse Engineering
-- The Ghidra Book: The Definitive Guide
-- Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
 
-# Software Geral
-
-- The Pragmatic Programmer
-- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application 
-- Rework 
-- Startup, Jessica Livingston 
-- The twelve-factor methodology to scale a software 
-- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Estudando](https://github.com/henrique559/O-Programador-apaixonado)  📖 
-
-
-### ETC
-
-- Aprendendo a Aprender - Finalizado 📙
-- Aprendendo Inteligência: Manual de instruções do cérebro para estudantes em geral
