@@ -17,6 +17,7 @@
 - Pre-Calculo
 - Calculo 1, 2
 - Algebra Linear
+- Number Theory
 
 ### Engenharia de Software
 - Clean Code
