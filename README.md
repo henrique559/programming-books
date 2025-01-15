@@ -22,7 +22,6 @@
 - Clean Code
 - Clean Architecture
 - Design Patterns
-- Domain Driven Design
 - Refactoring
 
 ### Programação de baixo nível
